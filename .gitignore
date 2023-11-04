@@ -264,6 +264,9 @@ bld/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+.vscode/
+.vscode
+patches/
 
 # Visual Studio 2017 auto generated files
 Generated\ Files/
