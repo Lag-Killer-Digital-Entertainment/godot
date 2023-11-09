@@ -1,4 +1,0 @@
-#include "modules/register_module_types.h"
-
-void initialize_relactivity_engine_module(ModuleInitializationLevel p_level);
-void uninitialize_relactivity_engine_module(ModuleInitializationLevel p_level);
